@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+FloresViewTool::Renderer.copyright 'Daniel Flores', 'All rights reserved'
+```
 
 ## Development
 
